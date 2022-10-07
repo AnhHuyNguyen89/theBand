@@ -60,7 +60,6 @@ html{
     left: 0;
     right: 0;
     z-index: 999;
-    overflow: hidden;
 }
 #nav{
     display: inline-block;
@@ -108,11 +107,17 @@ html{
 .nav-icon{
     font-size:14px;
 }
+#header .mobile-menu-btn{
+    position: absolute;
+    right: 0;
+    top: 0;
+}
 #header .mobile-menu-btn,
 #header .search-btn{
    float:right;
    line-height: 46px;
    padding: 0 21px;
+  
 }
 
 #header .search-btn:hover{
