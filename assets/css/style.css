@@ -193,7 +193,7 @@ html{
 }
 
 #content .member-team{
-    margin-top: 48px;
+    margin-top: 32px;
     /* overflow: hidden; */
 }
 #content .member-name{
@@ -239,7 +239,7 @@ html{
 }
 /*Place List*/
 .place-list{
-    margin-top: 32px;
+    margin-top: 16px;
 }
 .img-place{
     width: 100%;
